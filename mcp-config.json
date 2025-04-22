@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "name": "smithery-toolbox",
+      "type": "smithery",
+      "config": {
+        "dynamic": false,
+        "smitheryApiKey": "@smithery/toolbox"
+      },
+      "client": "cursor"
+    }
+  ],
+  "version": "1.0.0"
+}
